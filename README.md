@@ -33,3 +33,10 @@ Com curiosidades, dicas e ferramentas práticas, o podcast transforma o aprendiz
 
 ## 📂 Estrutura  
 
+📁 League-of-Coders/
+├── 🎙️ roteiros/ # Roteiros dos episódios
+├── 🎧 audio/ # Arquivos de áudio do podcast
+├── 🎨 assets/ # Capas e materiais visuais
+├── ⚙️ scripts/ # Textos otimizados para IA (text-to-speech)
+└── 📜 README.md # Este arquivo
+
