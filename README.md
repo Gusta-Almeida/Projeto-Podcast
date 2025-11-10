@@ -30,13 +30,3 @@ Com curiosidades, dicas e ferramentas práticas, o podcast transforma o aprendiz
 | 🎓 Aprendizado | **DIO Bootcamp** | Base conceitual de IA generativa |
 
 ---
-
-## 📂 Estrutura  
-
-📁 League-of-Coders/
-├── 🎙️ roteiros/ # Roteiros dos episódios
-├── 🎧 audio/ # Arquivos de áudio do podcast
-├── 🎨 assets/ # Capas e materiais visuais
-├── ⚙️ scripts/ # Textos otimizados para IA (text-to-speech)
-└── 📜 README.md # Este arquivo
-
