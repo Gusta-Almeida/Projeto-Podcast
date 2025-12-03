@@ -60,20 +60,8 @@ Esse fluxo destaca a utilização prática da IA como ferramenta auxiliar para p
 
 Abaixo é possível ouvir o áudio diretamente pelo GitHub:
 
-```html
-<audio controls>
-  <source src="https://raw.githubusercontent.com/Gusta-Almeida/Projeto-Podcast/refs/heads/main/episodio1_o_primeiro_bug.mp3" type="audio/mpeg">
-  Seu navegador não suporta a reprodução de áudio.
-</audio>
-```
+[Uploading episodio1_o_primeiro_bug.mp3…]()
 
-Substitua `AUDIO_URL_AQUI.mp3` pelo caminho real do arquivo dentro do repositório, por exemplo:
-
-```
-audio/episodio1.mp3
-```
-
-Ou um link externo, como GitHub Releases ou Google Drive (link direto).
 
 ---
 
