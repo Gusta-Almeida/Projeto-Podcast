@@ -1,4 +1,4 @@
-# League of Coders  
+# Projeto Podcast: League of Coders  
 ### Explorando a criação de conteúdo com IAs Generativas
 
 ---
