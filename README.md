@@ -5,9 +5,9 @@
 
 ## Visão Geral
 
-O **League of Coders** é um projeto desenvolvido durante o *Bootcamp Fundamentos de IA Generativa (DIO)* com a proposta de criar um **podcast educacional** voltado para estudantes iniciantes em **Análise e Desenvolvimento de Sistemas**.
+O **League of Coders** é um projeto desenvolvido durante o *Bootcamp Fundamentos de IA Generativa (DIO)* com a proposta de criar um **podcast**, desde a ideação até a puclicação de um episódio aqui no Github.
 
-O conteúdo é apresentado em episódios curtos, com linguagem clara e acessível, explorando conceitos fundamentais de programação, lógica computacional e tecnologia. Todo o projeto foi produzido utilizando ferramentas de **Inteligência Artificial Generativa**.
+O conteúdo é apresentado em episódio curto, com linguagem clara e acessível, explorando conceitos fundamentais de programação, lógica computacional e tecnologia. Todo o projeto foi produzido utilizando ferramentas de **Inteligência Artificial Generativa**.
 
 ---
 
@@ -45,7 +45,7 @@ Esse fluxo destaca a utilização prática da IA como ferramenta auxiliar para p
 
 ---
 
-## Habilidades Demonstradas
+## Habilidades
 
 - Uso estratégico de Inteligência Artificial Generativa.  
 - Desenvolvimento de conteúdo estruturado.  
@@ -60,7 +60,7 @@ Esse fluxo destaca a utilização prática da IA como ferramenta auxiliar para p
 
 Abaixo é possível ouvir o áudio diretamente pelo GitHub:
 
-[Uploading episodio1_o_primeiro_bug.mp3…]()
+https://github.com/Gusta-Almeida/Projeto-Podcast/raw/refs/heads/main/episodio1_o_primeiro_bug.mp3
 
 
 ---
@@ -72,7 +72,6 @@ Abaixo é possível ouvir o áudio diretamente pelo GitHub:
 - ElevenLabs — Text-to-Speech  
 - Microsoft Copilot  
 
-(Links podem ser adicionados conforme necessário.)
 
 ---
 
