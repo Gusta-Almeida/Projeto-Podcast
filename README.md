@@ -76,8 +76,5 @@ Abaixo é possível ouvir o áudio diretamente pelo GitHub:
 
 ---
 
-## Contato
-
-Sugestões, dúvidas ou contribuições podem ser enviadas via *issues* do repositório.
 
 
