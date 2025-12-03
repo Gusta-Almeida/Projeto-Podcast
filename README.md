@@ -62,7 +62,7 @@ Abaixo é possível ouvir o áudio diretamente pelo GitHub:
 
 ```html
 <audio controls>
-  <source src="episodio1_o_primeiro_bug.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/Gusta-Almeida/Projeto-Podcast/refs/heads/main/episodio1_o_primeiro_bug.mp3" type="audio/mpeg">
   Seu navegador não suporta a reprodução de áudio.
 </audio>
 ```
